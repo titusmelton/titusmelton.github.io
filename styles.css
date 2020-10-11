@@ -1,5 +1,5 @@
 body {
-    background: pink;
+    background: #F2E0C9;
     font-family:Arial, Arial, Helvetica, sans-serif;
 }
 
@@ -8,14 +8,19 @@ body {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: lightgray;
+background: #BF8339;
 }
 
 .assignment img {
     width: 200px;
-    padding: 10px;
+    border: 2px solid  #8C4D3F; 
+    margin-right: 20px;
 }
 h1 {
-    color: darkorchid;
+    color: #401201;
     text-align:center;
 } 
+a {
+    text-decoration: none;
+    color: #fff;
+}
